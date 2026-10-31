@@ -19,7 +19,7 @@
 | Versión | Fecha | Ticket | Descripción | Responsable |
 |---------|-------|--------|-------------|-------------|
 | v1.0 | (línea base) | - | Versión inicial | Alanwalker005 |
-| v1.1 | (en desarrollo) | #101 | Validación de teléfono | Alanwalker005 |
+| v1.1 | 31/10/2026 | #101 | Validación de teléfono | Alanwalker005 |
 
 ## Cambio planificado: v1.1
 
